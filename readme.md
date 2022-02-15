@@ -1,7 +1,7 @@
-# Welcome to the maintained Hardest Impossible Levels List repo!
+# Welcome to the maintained Hardest VictorGDPSDemonList repo!
 ---
 There isnt much going on here at the moment but the list team will actively be adding new records and levels, so keep an eye out on the [website]() (coming soon).
-<!--https://impossiblelevellist.asemnada991.repl.co/-->
+<!--https://VictorGDPSDemonList.smashrivals.repl.co/-->
 ---
 # FAQ
 ---
@@ -36,31 +36,16 @@ More Coming Soon!
 # List Staff Team
 ---
 ## Owners:
-- HaydenDom
-- TiO2
-- Ultravenom
+- TheRedVirus
 ---
 ## List Admins:
 ---
 ## List Moderators:
-- Maus9999
-- Doki
-- Wen
-- Jang
-- Knali
-- Prototype Hipo
-- Relayne
+- TheRedVirus
 ---
 ## List Helpers:
 ---
 ## Server Administrators:
-- Dysbelief
-- Maus9999
-- Doki
-- Wen
-- Jang
-- Knali
-- Wuro
 ---
 ## Repo Maintainers (website Dev):
-- Electro
+- TheRedVirus
