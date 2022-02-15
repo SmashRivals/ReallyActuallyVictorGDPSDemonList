@@ -1,4 +1,4 @@
-const d = {
+onst d = {
 	"list": [
     /*=================================================================================*/
 		
@@ -8,20 +8,21 @@ const d = {
 					"user": "",
 					"link": "",
 					"percent": "",
-					"hz": "1000FPS"
+					"hz": "60FPS"
 				},
 			],
-                       "name": "Wistfully",
-                       "author": "xViola",
-                       "more": "KrXyt",
-                       "id": 67344125,
-                       "pass": "557774",
-                       "percentToQualify": "5",
-                       "verificationVid": "https://youtu.be/a4uVJWF-it4",
+                       "name": "Silent Circles",
+                       "author": "TheRedVirus",
+                       "more": "Cyclic, TheRealSailent",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "25",
+                       "verificationVid": "Deleted",
                        "key": 0
                 },
 	
   /*=================================================================================*/
+  
   
   {
 		"vids": [
@@ -29,16 +30,16 @@ const d = {
 					"user": "",
 					"link": "",
 					"percent": "",
-					"hz": "3000 FPS"
+					"hz": "60FPS"
 				},
 			],
-                       "name": "Singularity",
-                       "author": "070",
-                       "more": "070",
+                       "name": "Rigid Success",
+                       "author": "TheRedVirus",
+                       "more": "Sopar",
                        "id": 0,
-                       "pass": "",
-                       "percentToQualify": "5",
-                       "verificationVid": "https://youtu.be/ZpeEs5PNAyQ?t=191",
+                       "pass": "pass",
+                       "percentToQualify": "25",
+                       "verificationVid": "Deleted",
                        "key": 1
                 },
   
@@ -54,14 +55,14 @@ const d = {
 					"hz": "1440 FPS"
 				},
 			],
-                       "name": "Arcturus",
-                       "author": "maxfs",
-                       "more": "maxfs",
+                       "name": "Sakupen Circles P",
+                       "author": "TheRedVirus",
+                       "more": "TheRedVirus",
                        "id": 0,
-                       "pass": "",
-                       "percentToQualify": "5",
-                       "verificationVid": "https://youtu.be/Wi9ImtkDPG8",
-                       "key": 2
+                       "pass": "pass",
+                       "percentToQualify": "25",
+                       "verificationVid": "Deleted",
+                       "key": 3
                 },
   
   /*=================================================================================*/
@@ -74,14 +75,14 @@ const d = {
 					"hz": "720 FPS"
 				},
 			],
-                       "name": "Silent Circles 15",
-                       "author": "TheRealSailent",
-                       "more": "070",
+                       "name": "Bufa",
+                       "author": "Dierise",
+                       "more": "Dierise",
                        "id": 0,
                        "pass": "pass",
                        "percentToQualify": "5",
-                       "verificationVid": "https://www.youtube.com/watch?v=XfhxMBwJo7A",
-                       "key": 3
+                       "verificationVid": "Deleted",
+                       "key": 4
                 },
    /*=================================================================================*/
    {
@@ -93,16 +94,214 @@ const d = {
 					"hz": "1872 FPS"
 				},
 			],
-                       "name": "MINUSclub",
-                       "author": "xVOLUMNIUS",
-                       "more": "xVOLUMNIUS",
+                       "name": "Death Corridor Z Ez",
+                       "author": "TheRedVirus",
+                       "more": "Sunix, KubelBlitz",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "10",
+                       "verificationVid": "Deleted",
+                       "key": 5
+                },
+   /*=================================================================================*/
+
+   {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": "1872 FPS"
+				},
+			],
+                       "name": "Shitty Hell Factory",
+                       "author": "TheRedVirus",
+                       "more": "AcropolisBoy",
                        "id": 0,
                        "pass": "pass",
                        "percentToQualify": "5",
-                       "verificationVid": "https://youtu.be/1SdZjtUaqV8",
-                       "key": 4
+                       "verificationVid": "Deleted",
+                       "key": 6
                 },
    /*=================================================================================*/
+
+   {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": "1872 FPS"
+				},
+			],
+                       "name": "Jawbreaker Nerfed",
+                       "author": "ItsVictorGMD",
+                       "more": "ItsVictorGMD",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "40",
+                       "verificationVid": "Deleted",
+                       "key": 7
+                },
+   /*=================================================================================*/  
+{
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": "1872 FPS"
+				},
+			],
+                       "name": "Collab Part 3",
+                       "author": "Dash2j",
+                       "more": "Dash2j",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "50",
+                       "verificationVid": "Deleted",
+                       "key": 8
+                },
+   /*=================================================================================*/  
+{
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": "1872 FPS"
+				},
+			],
+                       "name": "Victor Wave",
+                       "author": "Johs",
+                       "more": "ItsVictorGMD",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "15",
+                       "verificationVid": "Deleted",
+                       "key": 9
+                },
+   /*=================================================================================*/  
+
+{
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": "1872 FPS"
+				},
+			],
+                       "name": "Shitty Tartarus Easy",
+                       "author": "TheRedVirus",
+                       "more": "TheRedVirus",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "30",
+                       "verificationVid": "Deleted",
+                       "key": 10
+                },
+   /*=================================================================================*/  
+
+{
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": "1872 FPS"
+				},
+			],
+                       "name": "Strada",
+                       "author": "JesusHP",
+                       "more": "JesusHP",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "40",
+                       "verificationVid": "Deleted",
+                       "key": 11
+                },
+   /*=================================================================================*/  
+
+{
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": "1872 FPS"
+				},
+			],
+                       "name": "Demon 1",
+                       "author": "xxalexx1203",
+                       "more": "xxalexx1203",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "20",
+                       "verificationVid": "Deleted",
+                       "key": 12
+                },
+   /*=================================================================================*/  
+
+{
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": "1872 FPS"
+				},
+			],
+                       "name": "TERRIFIED",
+                       "author": "Johs",
+                       "more": "Johs",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "10",
+                       "verificationVid": "Deleted",
+                       "key": 13
+                },
+   /*=================================================================================*/  
+
+ {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": "1872 FPS"
+				},
+			],
+                       "name": "smes uroveny",
+                       "author": "Johs",
+                       "more": "Johs",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "20",
+                       "verificationVid": "Deleted",
+                       "key": 14
+                },
+   /*=================================================================================*/  
+
+{
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": "1872 FPS"
+				},
+			],
+                       "name": "Shitty ABP Easy",
+                       "author": "TheRedVirus",
+                       "more": "TheRedVirus",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "10",
+                       "verificationVid": "Deleted",
+                       "key": 15
+                },
+   /*=================================================================================*/  
 
   ],
 	"version": [
